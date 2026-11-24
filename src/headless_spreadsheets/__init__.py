@@ -6,7 +6,7 @@ from .table import Column, Row, Table, TableView
 from .rendering import TableDocument
 from .sources import SourceColumn, SourceRow, TableSnapshot, TableSource
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 __all__ = [
     "AddressError", "Cell", "CellInput", "DataType", "FormatError", "Limits",
