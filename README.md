@@ -1,5 +1,8 @@
 # Headless Spreadsheets
 
+Release candidate **0.1.1**: Stable tabular sources and registered Backpack sources with checked cell edits.
+[Published versions and main development](https://github.com/orgs/wispsy/projects/31) are tracked separately.
+
 Read-only [tabular sources and detached snapshots](docs/sources.md) preserve
 source-instance row/column identity and native cell metadata through queries.
 

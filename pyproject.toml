@@ -1,6 +1,6 @@
 [project]
 name = "headless-spreadsheets"
-version = "0.1.0"
+version = "0.1.1"
 description = "Spreadsheet-native tables with typed cells and portable, dependency-free interchange."
 readme = "README.md"
 authors = [
